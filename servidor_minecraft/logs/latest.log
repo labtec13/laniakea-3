@@ -1,98 +1,98 @@
-[30Nov2024 20:53:13.818] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.34, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[30Nov2024 20:53:13.821] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[30Nov2024 20:53:14.100] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[30Nov2024 20:53:14.166] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/laniakea-3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[30Nov2024 20:53:14.648] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[30Nov2024 20:53:14.736] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[30Nov2024 20:53:14.743] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[30Nov2024 20:53:14.749] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[30Nov2024 20:53:14.754] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[30Nov2024 20:53:14.760] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[30Nov2024 20:53:14.765] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[30Nov2024 20:53:14.771] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[30Nov2024 20:53:14.779] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[30Nov2024 20:53:16.333] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[30Nov2024 20:53:22.803] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[30Nov2024 20:53:22.805] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[30Nov2024 20:53:22.806] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[30Nov2024 20:53:22.806] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[30Nov2024 20:53:22.863] [modloading-worker-3/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
-[30Nov2024 20:53:22.915] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.34, for MC 1.16.5 with MCP 20210115.111550
-[30Nov2024 20:53:22.961] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.34 Initialized
-[30Nov2024 20:53:23.780] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod immersiveengineering.
-[30Nov2024 20:53:25.511] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[30Nov2024 20:53:25.512] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[30Nov2024 20:53:26.292] [modloading-worker-1/INFO] [Dungeon Crawl/]: Common Setup
-[30Nov2024 20:53:26.353] [modloading-worker-1/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
-[30Nov2024 20:53:26.354] [modloading-worker-1/INFO] [Dungeon Crawl/]: minecraft:overworld
-[30Nov2024 20:53:26.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[30Nov2024 20:53:26.936] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:condor, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.937] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:cuy, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.937] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:boto, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.937] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:alpaca, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.937] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:vicuna, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.937] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:guanay, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.938] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:lobomarino, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.938] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:gallitodelasrocas, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.938] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:black_caiman, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.938] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:spectacled_caiman, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.938] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:quirquincho, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.938] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:sloth, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.939] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:poison_frog, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.939] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:condor_perched, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.939] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:ancient_spirit, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.939] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:doris_longwing_swarm, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.939] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:tiger_longwing_swarm, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.939] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:emperor_swarm, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.939] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:morpho_swarm, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.940] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:andromeda_satyr_swarm, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.940] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:firefly_swarm, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.940] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:alpacadark, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.940] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:wiracochahandless, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.940] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:lefthand, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.941] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:righthand, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.941] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:cuyblack, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.941] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:wiracochathecreator, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.941] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:caballito_de_totora, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.941] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:caiman_spawner, use EntityAttributeCreationEvent instead.
-[30Nov2024 20:53:26.942] [main/INFO] [journeymap/]: Initializing Packet Registries
-[30Nov2024 20:53:26.956] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 36.2.34 Target: null
-[30Nov2024 20:53:26.956] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.16/update.json
-[30Nov2024 20:53:26.995] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
-[30Nov2024 20:53:27.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: AHEAD Current: 1.16.5-1.0.10 Target: null
-[30Nov2024 20:53:27.027] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.16.x/update.json
-[30Nov2024 20:53:27.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: BETA Current: NONE Target: null
-[30Nov2024 20:53:27.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[30Nov2024 20:53:27.158] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
-[30Nov2024 20:53:27.171] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[30Nov2024 21:14:11.520] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.34, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[30Nov2024 21:14:11.524] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[30Nov2024 21:14:11.817] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[30Nov2024 21:14:11.873] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/laniakea-3/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[30Nov2024 21:14:12.354] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Nov2024 21:14:12.445] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Nov2024 21:14:12.452] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Nov2024 21:14:12.458] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Nov2024 21:14:12.464] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Nov2024 21:14:12.469] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Nov2024 21:14:12.474] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Nov2024 21:14:12.479] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Nov2024 21:14:12.489] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[30Nov2024 21:14:14.148] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[30Nov2024 21:14:20.157] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2024 21:14:20.159] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2024 21:14:20.159] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2024 21:14:20.159] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2024 21:14:20.179] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[30Nov2024 21:14:20.199] [modloading-worker-3/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.34, for MC 1.16.5 with MCP 20210115.111550
+[30Nov2024 21:14:20.216] [modloading-worker-3/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.34 Initialized
+[30Nov2024 21:14:21.020] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod immersiveengineering.
+[30Nov2024 21:14:22.986] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2024 21:14:22.989] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[30Nov2024 21:14:23.641] [modloading-worker-3/INFO] [Dungeon Crawl/]: Common Setup
+[30Nov2024 21:14:23.644] [modloading-worker-3/INFO] [Dungeon Crawl/]: Whitelisted Dimensions:
+[30Nov2024 21:14:23.644] [modloading-worker-3/INFO] [Dungeon Crawl/]: minecraft:overworld
+[30Nov2024 21:14:23.701] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Nov2024 21:14:24.150] [main/INFO] [Dungeon Crawl/]: Registering Structure Piece Types
+[30Nov2024 21:14:24.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 36.2.34 Target: null
+[30Nov2024 21:14:24.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Starting version check at https://raw.githubusercontent.com/Lothrazar/SimpleTomb/trunk/1.16/update.json
+[30Nov2024 21:14:24.185] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:condor, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.186] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:cuy, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.186] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:boto, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.187] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:alpaca, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.187] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:vicuna, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.187] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:guanay, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.188] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:lobomarino, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.188] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:gallitodelasrocas, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.188] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:black_caiman, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.189] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:spectacled_caiman, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.189] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:quirquincho, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.189] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:sloth, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.190] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:poison_frog, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.190] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:condor_perched, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.190] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:ancient_spirit, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.191] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:doris_longwing_swarm, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.191] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:tiger_longwing_swarm, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.191] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:emperor_swarm, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.191] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:morpho_swarm, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.192] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:andromeda_satyr_swarm, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.192] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:firefly_swarm, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.193] [main/INFO] [journeymap/]: Initializing Packet Registries
+[30Nov2024 21:14:24.223] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:alpacadark, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.223] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:wiracochahandless, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.224] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:lefthand, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.224] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:righthand, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.225] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:cuyblack, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.225] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:wiracochathecreator, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.226] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:caballito_de_totora, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.226] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for peru_mod:caiman_spawner, use EntityAttributeCreationEvent instead.
+[30Nov2024 21:14:24.233] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [simpletomb] Found status: AHEAD Current: 1.16.5-1.0.10 Target: null
+[30Nov2024 21:14:24.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.16.x/update.json
+[30Nov2024 21:14:24.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: BETA Current: NONE Target: null
+[30Nov2024 21:14:24.260] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[30Nov2024 21:14:24.348] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:174) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:201) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:142) [forge:?]
-[30Nov2024 20:53:27.184] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[30Nov2024 20:53:27.167] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
-[30Nov2024 20:53:27.185] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
-[30Nov2024 20:53:27.186] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
-[30Nov2024 20:53:27.240] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[30Nov2024 21:14:24.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[30Nov2024 21:14:24.399] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
+[30Nov2024 21:14:24.399] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
+[30Nov2024 21:14:24.399] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
+[30Nov2024 21:14:24.400] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
+[30Nov2024 21:14:24.408] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: null
 	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:174) ~[forge:?]
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:201) ~[forge:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:142) [forge:?]
-[30Nov2024 20:53:27.404] [modloading-worker-1/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[30Nov2024 20:53:31.272] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[30Nov2024 20:53:31.913] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
-[30Nov2024 20:53:31.915] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
-[30Nov2024 20:53:31.920] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[30Nov2024 20:53:31.921] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[30Nov2024 20:53:31.923] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[30Nov2024 20:53:31.926] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[30Nov2024 20:53:31.934] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[30Nov2024 20:53:31.936] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
-[30Nov2024 20:53:31.937] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
-[30Nov2024 20:53:31.945] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, PeruMod1.2.1.jar, DungeonCrawl-1.16.5-2.3.12.jar, Hwyla-forge-1.10.11-B78_1.16.2.jar, forge-1.16.5-36.2.34-universal.jar, simpletomb-1.16.5-1.0.10.jar, twilightforest-1.16.5-4.0.870-universal.jar, journeymap-1.16.5-5.8.6.jar, jei-1.16.5-7.8.0.1012.jar, citadel-1.8.1-1.16.5.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, eyeofdragons-0.1.0.jar, TravelersBackpack-1.16.5-5.4.51.jar
-[30Nov2024 20:53:33.815] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe peru_mod:shielder
+[30Nov2024 21:14:24.463] [modloading-worker-2/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[30Nov2024 21:14:28.827] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30Nov2024 21:14:29.489] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[30Nov2024 21:14:29.501] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[30Nov2024 21:14:29.504] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[30Nov2024 21:14:29.506] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Nov2024 21:14:29.507] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Nov2024 21:14:29.522] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[30Nov2024 21:14:29.523] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Nov2024 21:14:29.525] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, create, name, dimension, location, color, announce] and [waypoint, create, name, dimension, location, color, player] with inputs: [true, false]
+[30Nov2024 21:14:29.526] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [waypoint, delete, name, announce] and [waypoint, delete, name, player] with inputs: [true, false]
+[30Nov2024 21:14:29.532] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, PeruMod1.2.1.jar, DungeonCrawl-1.16.5-2.3.12.jar, Hwyla-forge-1.10.11-B78_1.16.2.jar, forge-1.16.5-36.2.34-universal.jar, simpletomb-1.16.5-1.0.10.jar, twilightforest-1.16.5-4.0.870-universal.jar, journeymap-1.16.5-5.8.6.jar, jei-1.16.5-7.8.0.1012.jar, citadel-1.8.1-1.16.5.jar, iceandfire-2.1.12-1.16.5-patch-1.jar, eyeofdragons-0.1.0.jar, TravelersBackpack-1.16.5-5.4.51.jar
+[30Nov2024 21:14:31.564] [Worker-Main-5/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe peru_mod:shielder
 com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 	at net.minecraft.item.crafting.ShapedRecipe.func_222129_c(ShapedRecipe.java:262) ~[?:?]
 	at java.util.Optional.orElseThrow(Optional.java:408) ~[?:?]
@@ -138,58 +138,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'peru_mod:escudodearmas'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
-[30Nov2024 20:53:33.848] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 8 recipes
-[30Nov2024 20:53:35.286] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1375 advancements
-[30Nov2024 20:53:35.296] [Worker-Main-4/INFO] [Dungeon Crawl/]: Loading data...
-[30Nov2024 20:53:36.208] [Worker-Main-4/INFO] [Dungeon Crawl/]: Done.
-[30Nov2024 20:53:39.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[30Nov2024 20:53:39.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[30Nov2024 20:53:39.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[30Nov2024 20:53:39.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[30Nov2024 20:53:39.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[30Nov2024 20:53:39.753] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[30Nov2024 20:53:39.907] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[30Nov2024 20:53:39.908] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[30Nov2024 20:53:39.908] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[30Nov2024 20:53:39.908] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[30Nov2024 20:53:39.946] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[30Nov2024 20:53:39.950] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[30Nov2024 20:53:39.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[30Nov2024 20:53:40.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[30Nov2024 20:53:41.705] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[30Nov2024 20:53:41.705] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[30Nov2024 20:53:41.706] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[30Nov2024 20:53:41.706] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[30Nov2024 20:53:42.282] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 13%
-[30Nov2024 20:53:42.723] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2536 ms
-[30Nov2024 20:53:42.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.793s)! For help, type "help"
-[30Nov2024 20:53:42.845] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[30Nov2024 20:53:42.845] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[30Nov2024 20:54:57.566] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@711e89c6
-[30Nov2024 20:54:57.585] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: TheMasterLabtec[/127.133.67.212:43823] logged in with entity id 207 at (-6.460527830360074, 69.0, 212.1360013498456)
-[30Nov2024 20:54:57.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheMasterLabtec joined the game
-[30Nov2024 20:54:57.722] [Server thread/INFO] [Waila/]: Syncing config to TheMasterLabtec (954fc6a5-bf53-3680-ac43-4df2329bed32)
-[30Nov2024 20:55:02.651] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: TheMasterLabtec lost connection: Disconnected
-[30Nov2024 20:55:02.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: TheMasterLabtec left the game
-[30Nov2024 20:55:16.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[30Nov2024 20:55:16.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[30Nov2024 20:55:16.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[30Nov2024 20:55:16.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[30Nov2024 20:55:16.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dasd]'/minecraft:overworld
-[30Nov2024 20:55:17.355] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30Nov2024 20:55:17.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dasd]'/minecraft:the_nether
-[30Nov2024 20:55:17.357] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30Nov2024 20:55:17.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dasd]'/minecraft:the_end
-[30Nov2024 20:55:17.358] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30Nov2024 20:55:17.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dasd]'/peru_mod:hanan
-[30Nov2024 20:55:17.359] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (hanan): All chunks are saved
-[30Nov2024 20:55:17.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dasd]'/twilightforest:twilightforest
-[30Nov2024 20:55:17.360] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
-[30Nov2024 20:55:17.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dasd]'/twilightforest:skylight_forest
-[30Nov2024 20:55:17.361] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
-[30Nov2024 20:55:17.381] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30Nov2024 20:55:17.384] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30Nov2024 20:55:17.384] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30Nov2024 20:55:17.385] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (hanan): All chunks are saved
-[30Nov2024 20:55:17.385] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
-[30Nov2024 20:55:17.386] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[30Nov2024 21:14:31.704] [Worker-Main-5/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 8 recipes
+[30Nov2024 21:14:33.155] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1375 advancements
+[30Nov2024 21:14:33.158] [Worker-Main-5/INFO] [Dungeon Crawl/]: Loading data...
+[30Nov2024 21:14:33.884] [Worker-Main-5/INFO] [Dungeon Crawl/]: Done.
+[30Nov2024 21:14:37.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[30Nov2024 21:14:37.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30Nov2024 21:14:37.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30Nov2024 21:14:37.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30Nov2024 21:14:37.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30Nov2024 21:14:37.723] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[30Nov2024 21:14:37.877] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30Nov2024 21:14:37.877] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30Nov2024 21:14:37.878] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30Nov2024 21:14:37.878] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30Nov2024 21:14:37.913] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Nov2024 21:14:37.914] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Nov2024 21:14:37.915] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[30Nov2024 21:14:37.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30Nov2024 21:14:38.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Nov2024 21:14:39.567] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Nov2024 21:14:39.568] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Nov2024 21:14:39.569] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Nov2024 21:14:39.786] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Nov2024 21:14:40.260] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 52%
+[30Nov2024 21:14:40.411] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2212 ms
+[30Nov2024 21:14:40.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.519s)! For help, type "help"
+[30Nov2024 21:14:40.520] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=false, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, GORGON_TEMPLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, MAUSOLEUM_CF=true, ICE_DRAGON_CAVE_CF=true, GRAVEYARD_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=true, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[30Nov2024 21:14:40.521] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[30Nov2024 21:17:18.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[30Nov2024 21:17:18.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Nov2024 21:17:18.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Nov2024 21:17:18.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Nov2024 21:17:18.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dasd]'/minecraft:overworld
+[30Nov2024 21:17:19.698] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Nov2024 21:17:19.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dasd]'/minecraft:the_nether
+[30Nov2024 21:17:19.700] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Nov2024 21:17:19.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dasd]'/minecraft:the_end
+[30Nov2024 21:17:19.701] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Nov2024 21:17:19.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dasd]'/peru_mod:hanan
+[30Nov2024 21:17:19.704] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (hanan): All chunks are saved
+[30Nov2024 21:17:19.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dasd]'/twilightforest:twilightforest
+[30Nov2024 21:17:19.705] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[30Nov2024 21:17:19.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[dasd]'/twilightforest:skylight_forest
+[30Nov2024 21:17:19.706] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[30Nov2024 21:17:19.740] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Nov2024 21:17:19.743] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Nov2024 21:17:19.744] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Nov2024 21:17:19.744] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (hanan): All chunks are saved
+[30Nov2024 21:17:19.745] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[30Nov2024 21:17:19.745] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[30Nov2024 21:17:19.748] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
